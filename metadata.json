@@ -1,0 +1,6 @@
+{
+  "name": "Apex Climb — 2D Physics Hill Racing",
+  "description": "Offline 2D physics-based hill climbing racing game with 10 vehicles, 8 upgrade systems, 10 dynamic maps, procedural terrain, missions, and daily rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

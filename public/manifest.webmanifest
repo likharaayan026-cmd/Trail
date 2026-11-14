@@ -1,0 +1,11 @@
+{
+  "id": "com.apex.climbing",
+  "name": "Apex Climb",
+  "short_name": "Apex Climb",
+  "description": "Offline 2D physics-based hill climbing racing game by Aayan Likhar.",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#090d16",
+  "theme_color": "#0f172a"
+}
